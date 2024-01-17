@@ -1,3 +1,10 @@
-//
-// Created by Dat Nguyen on 1/17/24.
-//
+/*
+ * Name: Jaime Nguyen
+ * Lab 0: Introduction to git & GitHub
+ */
+
+#include <stdlib.h>
+
+char randchar() {
+    return (char)('A' + rand() % 26);
+}
